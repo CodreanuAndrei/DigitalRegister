@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="315.0" prefWidth="273.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.TemaDialogController">
+    <Label fx:id="deadline" layoutX="26.0" layoutY="152.0" text="Deadline">
+        <font>
+            <Font name="System Bold" size="12.0" />
+        </font>
+    </Label>
+    <Label fx:id="tema" layoutX="26.0" layoutY="109.0" text="Tema">
+        <font>
+            <Font name="System Bold" size="12.0" />
+        </font>
+    </Label>
+    <TextField fx:id="temaText" layoutX="91.0" layoutY="105.0" />
+    <TextField fx:id="deadlineText" layoutX="91.0" layoutY="148.0" />
+    <Button layoutX="20.0" layoutY="200.0" mnemonicParsing="false" onAction="#handleSave" prefHeight="25.0" prefWidth="81.0" text="Save" />
+    <Button layoutX="166.0" layoutY="200.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="25.0" prefWidth="81.0" text="Cancel" />
+   <padding>
+      <Insets left="-200.0" right="-200.0" />
+   </padding>
+</AnchorPane>

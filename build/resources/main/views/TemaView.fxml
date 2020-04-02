@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="361.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.TemaController">
+   <children>
+      <SplitPane dividerPositions="0.7157190635451505" prefHeight="400.0" prefWidth="600.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <TableView fx:id="tableView" prefHeight="200.0" prefWidth="424.0">
+                    <columns>
+                      <TableColumn fx:id="idField" prefWidth="75.0" text="ID" />
+                      <TableColumn fx:id="temaField" prefWidth="75.0" text="Tema" />
+                        <TableColumn fx:id="primireField" prefWidth="135.0" text="Saptamana primire" />
+                        <TableColumn fx:id="deadlineField" prefWidth="138.0" text="Termen de predare" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Button fx:id="addBtn" layoutX="40.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleAdd" prefHeight="30.0" prefWidth="85.0" text="Add" />
+                  <Button fx:id="updateBtn" layoutX="40.0" layoutY="173.0" mnemonicParsing="false" onAction="#handleUpdate" prefHeight="30.0" prefWidth="85.0" text="Update" />
+                  <Button fx:id="removeBtn" layoutX="40.0" layoutY="105.0" mnemonicParsing="false" onAction="#handleRemove" prefHeight="30.0" prefWidth="85.0" text="Remove" />
+                  <Label layoutX="35.0" layoutY="14.0" text="Adauga o tema">
+                     <font>
+                        <Font name="Calibri" size="15.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="39.0" layoutY="79.0" text="Sterge o tema">
+                     <font>
+                        <Font name="Calibri Italic" size="15.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="22.0" layoutY="148.0" text="Actualizeaza o tema">
+                     <font>
+                        <Font name="Calibri Italic" size="15.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

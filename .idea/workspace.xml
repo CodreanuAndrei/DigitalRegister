@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbd16c0c-4f73-444d-8dfb-295122a3ae81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TjnQ7DzLSYOeer1DL8t5LHZJK9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\EvaluareTemaGUI\src\main\resources\images" />
+      <recent name="E:\Java Projects\EvaluareTemaGUI\src\main\resources\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\EvaluareTemaGUI\src\main\resources\data" />
+      <recent name="E:\Java Projects\EvaluareTemaGUI\src\main\resources\images" />
+      <recent name="E:\Java Projects\EvaluareTemaGUI\src\main\resources\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runners.Main" />
+      <module name="EvaluareTemaGUI.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepoTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluareTemaGUI.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.RepoTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepoTests.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluareTemaGUI.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.RepoTests" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluareTemaGUI.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.ServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTests.addStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluareTemaGUI.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.ServiceTests" />
+      <option name="METHOD_NAME" value="addStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ServiceTests" />
+        <item itemvalue="JUnit.RepoTests" />
+        <item itemvalue="JUnit.ServiceTests.addStudent" />
+        <item itemvalue="JUnit.RepoTests.save" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbd16c0c-4f73-444d-8dfb-295122a3ae81" name="Default Changelist" comment="" />
+      <created>1573982352688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573982352688</updated>
+      <workItem from="1573982358432" duration="16708000" />
+      <workItem from="1573999545480" duration="7322000" />
+      <workItem from="1574062284619" duration="93000" />
+      <workItem from="1574085664457" duration="202000" />
+      <workItem from="1574151395679" duration="5121000" />
+      <workItem from="1574156837187" duration="51000" />
+      <workItem from="1574239243857" duration="6101000" />
+      <workItem from="1574245468080" duration="68000" />
+      <workItem from="1574261490620" duration="258000" />
+      <workItem from="1574261787126" duration="142000" />
+      <workItem from="1574261999386" duration="139000" />
+      <workItem from="1574267076818" duration="1596000" />
+      <workItem from="1574321415044" duration="9242000" />
+      <workItem from="1574331792403" duration="77000" />
+      <workItem from="1574349532229" duration="1254000" />
+      <workItem from="1574350815553" duration="6813000" />
+      <workItem from="1574419399851" duration="4513000" />
+      <workItem from="1574514199321" duration="3592000" />
+      <workItem from="1574524884085" duration="10070000" />
+      <workItem from="1574583255086" duration="5257000" />
+      <workItem from="1574589531015" duration="4927000" />
+      <workItem from="1574594570860" duration="4384000" />
+      <workItem from="1574600616662" duration="299000" />
+      <workItem from="1574601018972" duration="5450000" />
+      <workItem from="1574667416666" duration="754000" />
+      <workItem from="1574687867626" duration="858000" />
+      <workItem from="1574688892959" duration="361000" />
+      <workItem from="1574698786403" duration="4208000" />
+      <workItem from="1574756555178" duration="8003000" />
+      <workItem from="1574771774370" duration="625000" />
+      <workItem from="1574844832544" duration="482000" />
+      <workItem from="1574872252077" duration="3888000" />
+      <workItem from="1574942040820" duration="921000" />
+      <workItem from="1575014446994" duration="568000" />
+      <workItem from="1575032067820" duration="104000" />
+      <workItem from="1575125811769" duration="6000" />
+      <workItem from="1575126112368" duration="6000" />
+      <workItem from="1575208088508" duration="59000" />
+      <workItem from="1575208748013" duration="5793000" />
+      <workItem from="1575278114584" duration="611000" />
+      <workItem from="1575305760406" duration="165000" />
+      <workItem from="1575355936419" duration="589000" />
+      <workItem from="1575357699589" duration="12619000" />
+      <workItem from="1575377103842" duration="2881000" />
+      <workItem from="1575447527936" duration="1505000" />
+      <workItem from="1575449192941" duration="4783000" />
+      <workItem from="1575475403515" duration="4093000" />
+      <workItem from="1578644297320" duration="31000" />
+      <workItem from="1580820449502" duration="1016000" />
+      <workItem from="1580822044230" duration="3068000" />
+      <workItem from="1580828191696" duration="7450000" />
+      <workItem from="1583783282167" duration="85000" />
+      <workItem from="1584694220945" duration="3276000" />
+      <workItem from="1584702985969" duration="830000" />
+      <workItem from="1584788819014" duration="646000" />
+      <workItem from="1584902333717" duration="18000" />
+      <workItem from="1585046821694" duration="133000" />
+      <workItem from="1585844960712" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2365" y="225" width="391" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580822048073">
+      <screen x="1920" y="0" width="1280" height="695" />
+    </state>
+    <state x="2365" y="225" width="391" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1280.695/0.0.1920.1042@1920.0.1280.695" timestamp="1580822048073" />
+    <state x="568" y="158" key="FileChooserDialogImpl" timestamp="1585046971759">
+      <screen x="0" y="0" width="1676" height="913" />
+    </state>
+    <state x="568" y="158" key="FileChooserDialogImpl/0.0.1676.913/1920.0.1676.943@0.0.1676.913" timestamp="1585046971759" />
+    <state x="2354" y="120" key="FileChooserDialogImpl/1920.0.1280.695/0.0.1920.1042@1920.0.1280.695" timestamp="1580821467370" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1585846112830">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.-71.1366.768@0.0.1536.834" timestamp="1585846112830" />
+    <state width="1237" height="57" key="GridCell.Tab.0.bottom/1920.0.1280.695/0.0.1920.1042@1920.0.1280.695" timestamp="1580821468757" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1585846112830">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.834/1920.-71.1366.768@0.0.1536.834" timestamp="1585846112830" />
+    <state width="1237" height="57" key="GridCell.Tab.0.center/1920.0.1280.695/0.0.1920.1042@1920.0.1280.695" timestamp="1580821468757" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1585846112830">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.834/1920.-71.1366.768@0.0.1536.834" timestamp="1585846112830" />
+    <state width="1237" height="57" key="GridCell.Tab.0.left/1920.0.1280.695/0.0.1920.1042@1920.0.1280.695" timestamp="1580821468757" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1585846112830">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.834/1920.-71.1366.768@0.0.1536.834" timestamp="1585846112830" />
+    <state width="1237" height="57" key="GridCell.Tab.0.right/1920.0.1280.695/0.0.1920.1042@1920.0.1280.695" timestamp="1580821468757" />
+    <state x="2376" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1585046830055">
+      <screen x="1920" y="0" width="1676" height="943" />
+    </state>
+    <state x="349" y="183" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1578644297287" />
+    <state x="2292" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1366.768@1920.0.1366.768" timestamp="1584902333048" />
+    <state x="2376" y="250" key="com.intellij.ide.util.TipDialog/0.0.1676.913/1920.0.1676.943@0.0.1676.913" timestamp="1585046830055" />
+    <state x="0" y="0" key="new project wizard" timestamp="1578644342133">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1578644342133" />
+  </component>
+</project>

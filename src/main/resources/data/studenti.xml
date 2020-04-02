@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<studenti>
+  <student id="1">
+    <nume>Ciocan</nume>
+    <prenume>Catalin</prenume>
+    <grupa>222</grupa>
+    <mail>ciocan@eu.com</mail>
+    <indrumator>Teo</indrumator>
+  </student>
+  <student id="2">
+    <nume>Codreanu</nume>
+    <prenume>Andrei</prenume>
+    <grupa>226</grupa>
+    <mail>codandrei@gmail.com</mail>
+    <indrumator>Teo</indrumator>
+  </student>
+  <student id="3">
+    <nume>Craiu</nume>
+    <prenume>Andrei</prenume>
+    <grupa>227</grupa>
+    <mail>craiu@takeof.com</mail>
+    <indrumator>Camelia</indrumator>
+  </student>
+  <student id="4">
+    <nume>Cobzariu</nume>
+    <prenume>Robert</prenume>
+    <grupa>224</grupa>
+    <mail>cobzariu@mih.com</mail>
+    <indrumator>Vlad</indrumator>
+  </student>
+  <student id="5">
+    <nume>Latis</nume>
+    <prenume>Mihai</prenume>
+    <grupa>225</grupa>
+    <mail>fd2@mihai.com</mail>
+    <indrumator>Vasile</indrumator>
+  </student>
+  <student id="6">
+    <nume>Sirghi</nume>
+    <prenume>Costin</prenume>
+    <grupa>223</grupa>
+    <mail>cos@cs.com</mail>
+    <indrumator>Vlad</indrumator>
+  </student>
+  <student id="7">
+    <nume>Misina</nume>
+    <prenume>Mihai</prenume>
+    <grupa>227</grupa>
+    <mail>misinre@vl.com</mail>
+    <indrumator>Vasile</indrumator>
+  </student>
+  <student id="8">
+    <nume>Posa</nume>
+    <prenume>Alexandru</prenume>
+    <grupa>221</grupa>
+    <mail>posaalexandruyahoo.com</mail>
+    <indrumator>Camelia</indrumator>
+  </student>
+</studenti>

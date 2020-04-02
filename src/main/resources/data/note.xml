@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<note>
+  <nota id="2_9">
+    <val>1</val>
+    <data>2019-12-04</data>
+    <profesor>Teo</profesor>
+    <feedback>Feedback </feedback>
+  </nota>
+  <nota id="3_7">
+    <val>9</val>
+    <data>2019-12-04</data>
+    <profesor>Camelia</profesor>
+    <feedback>Nota a fost diminuata cu 1 puncte datorita intarzierilor</feedback>
+  </nota>
+  <nota id="3_9">
+    <val>10</val>
+    <data>2019-12-04</data>
+    <profesor>Camelia</profesor>
+    <feedback>Laboratorul a fost predat la timp!</feedback>
+  </nota>
+  <nota id="4_7">
+    <val>9</val>
+    <data>2019-12-04</data>
+    <profesor>Vlad</profesor>
+    <feedback>Nota a fost diminuata cu 1 puncte datorita intarzierilor</feedback>
+  </nota>
+  <nota id="4_9">
+    <val>10</val>
+    <data>2019-12-04</data>
+    <profesor>Vlad</profesor>
+    <feedback>Laboratorul a fost predat la timp!</feedback>
+  </nota>
+  <nota id="7_7">
+    <val>10</val>
+    <data>2019-12-04</data>
+    <profesor>Vasile</profesor>
+    <feedback>Nota a fost diminuata cu 1 puncte datorita intarzierilor</feedback>
+  </nota>
+</note>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="357.0" prefWidth="320.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.AddNotaDialog">
+   <children>
+      <TextField fx:id="studentField" layoutX="86.0" layoutY="45.0" />
+      <TextField fx:id="temaField" layoutX="86.0" layoutY="95.0" />
+      <DatePicker fx:id="date1" layoutX="159.0" layoutY="197.0" prefHeight="25.0" prefWidth="123.0" AnchorPane.leftAnchor="159.0" AnchorPane.rightAnchor="38.0" />
+      <DatePicker fx:id="date2" layoutX="159.0" layoutY="230.0" prefHeight="25.0" prefWidth="123.0" AnchorPane.leftAnchor="159.0" AnchorPane.rightAnchor="38.0" />
+      <Label layoutX="141.0" layoutY="24.0" text="Nume">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="140.0" layoutY="74.0" text="Tema">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="checkBox" layoutX="29.0" layoutY="213.0" mnemonicParsing="false" text="Motivari" />
+      <Button fx:id="confirmButton" layoutX="21.0" layoutY="309.0" mnemonicParsing="false" onAction="#handleSave" prefHeight="34.0" prefWidth="81.0" text="Confirm" />
+      <DatePicker fx:id="datePredare" layoutX="159.0" layoutY="146.0" prefHeight="25.0" prefWidth="123.0" />
+      <Label layoutX="52.0" layoutY="146.0" prefHeight="25.0" prefWidth="107.0" text="Data predarii:">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="cancelButton" layoutX="221.0" layoutY="309.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="34.0" prefWidth="81.0" text="Cancel" />
+      <Label fx:id="notaFinala" layoutX="94.0" layoutY="271.0" text="Nota finala:">
+         <font>
+            <Font name="System Italic" size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="notaFinalaText" layoutX="167.0" layoutY="272.0" text="Label" />
+   </children>
+</AnchorPane>

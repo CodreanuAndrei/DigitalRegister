@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teme>
+  <tema id="1">
+    <descriere>Lab1</descriere>
+    <startweek>1</startweek>
+    <deadline>2</deadline>
+  </tema>
+  <tema id="2">
+    <descriere>Lab2</descriere>
+    <startweek>2</startweek>
+    <deadline>3</deadline>
+  </tema>
+  <tema id="3">
+    <descriere>Lab3</descriere>
+    <startweek>3</startweek>
+    <deadline>4</deadline>
+  </tema>
+  <tema id="4">
+    <descriere>Lab4</descriere>
+    <startweek>4</startweek>
+    <deadline>5</deadline>
+  </tema>
+  <tema id="5">
+    <descriere>Lab5</descriere>
+    <startweek>5</startweek>
+    <deadline>7</deadline>
+  </tema>
+  <tema id="6">
+    <descriere>Lab6</descriere>
+    <startweek>6</startweek>
+    <deadline>7</deadline>
+  </tema>
+  <tema id="7">
+    <descriere>Lab7</descriere>
+    <startweek>7</startweek>
+    <deadline>9</deadline>
+  </tema>
+  <tema id="8">
+    <descriere>Lab8</descriere>
+    <startweek>8</startweek>
+    <deadline>10</deadline>
+  </tema>
+  <tema id="9">
+    <descriere>Lab9</descriere>
+    <startweek>9</startweek>
+    <deadline>11</deadline>
+  </tema>
+</teme>
